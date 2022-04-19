@@ -1,0 +1,89 @@
+body
+{
+    background-color: pink;
+    font-family: papyrus;
+    font-style: italic;
+    text-align: center;
+}
+#h1container
+{
+    border-radius: 25px;
+    background: white;
+    padding: 15px;
+}
+#h3container
+{
+    border-radius: 25px;
+    background: white;
+    padding: 10px;
+}
+#aboutPara
+{
+    margin-left: 75px;
+    margin-right: 50px;
+    text-align: justify;
+}
+#indexPic
+{
+    width: 650px;
+    height: 500px;
+    text-align: left;
+}
+#indexTable
+{
+    margin-left: 50px;
+}
+#accTable
+{
+    margin-left: 100px;
+    margin-right: 100px;
+}
+#hobbiesTable
+{
+    margin-left: 100px;
+}
+#hobbiesTD
+{
+    padding: 30px;
+}
+#accTD
+{
+    padding: 25px;
+}
+#volTable
+{
+    margin-left: 100px;
+    margin-top: 75px;
+    margin-right: 100px;
+}
+#volTD
+{
+    padding: 20px;
+    text-align: justify;
+}
+#links
+{
+    border-radius: 25px;
+    background: white;
+    padding:10px;
+}
+#heading4
+{
+    margin-top: 25px;
+}
+#pic
+{
+    width: 350px;
+    height: 250px;
+    text-align: left;
+}
+#volPic
+{
+    width: 190px;
+    height: 190px;
+}
+#accPic
+{
+    width: 75px;
+    height: 75px;
+}
